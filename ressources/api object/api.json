@@ -1,0 +1,13 @@
+{
+    "date": "15/03/2024",
+    "note": 15,
+    "user": {
+        "id": 1,
+        "prenom": "Bastien",
+        "nom": "Angeloz"
+    },
+    "formation": {
+        "id": 1,
+        "titre": "Les clefs de la preparation physique"
+    }
+}
