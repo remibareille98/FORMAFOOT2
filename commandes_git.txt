@@ -31,5 +31,5 @@ Un lien apparait dans la console pour ouvrir une PR.
 
 Sur GitHub, votre binôme doit faire une review et accepter les changements, vous pouvez ensuite merger les branches. 
 
-
-
+Remonter une branche au niveau :
+- git branch -f nom_de_branche
