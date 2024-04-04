@@ -13,7 +13,7 @@ Se placer sur la branche origine principale :
 - git checkout origin main (Attention à bien recupérer le derni)
 
 Créer votre branche et vous placer dessus : 
-- git checkout -b <nom_de_branche> 
+- git checkout -b "nom_de_branche"
 
 Effectuez vos modifications 
 
