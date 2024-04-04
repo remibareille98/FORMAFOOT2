@@ -16,6 +16,24 @@ Un exemple de conception est fourni pour illustrer le résultat attendu. Ce mod�
 Obtention de l'image sans texte: En attendant la réception de l'image de fond sans texte, vous pouvez travailler en ciblant la zone de réécriture avec le texte déjà présent sur l'image.
 Adaptation de la taille de l'image: Il est nécessaire de déterminer si l'image de fond doit être adaptée pour correspondre aux spécifications du projet.
 
+## Détails Techniques
+
+- **Langage** : Python 3.10
+- **Librairie** : fpdf2==2.7.7
+- **Approche** : Programmation Orientée Objet
+- **Bonnes Pratiques de Code** : Respectées
+
+Lien pour télécharger python3.10 : 
+- **Mac** : https://www.python.org/downloads/macos/
+- **Windows** : https://www.python.org/downloads/windows/
+
+### Création de votre environnement virtuel et installation des dépendances 
+
+- **Créer le venv** : `python3.10 -m venv venv` 
+- **Activer le venv** : Mac -> `source/venv/bin/activate` Windows -> `venv\Scripts\activate`
+
+- **Installation des dépendances** : `pip install -r requirements.txt` 
+
 ### Contact
 Pour toute question ou clarification, veuillez contacter :
 
